@@ -1,0 +1,146 @@
+{
+  "main": {
+    "name": "Sandeep Kumar Misra",
+    "phone":"9937797009",
+    "occupation": "Lead Business Process Management Developer",
+    "description": "Versatile Senior Software Developer with more than 4 years of experience with production-level projects and interacting with international clients - The Hershey, Metro Systems, and Mondelez International",
+    "image": "sandeep.jpg",
+    "bio": "Hi Viewer this is Sandeep, I'm a Software Developer. Currently, I'm working at VIS Technology while also mentoring my colleagues. A self-directed leader with talent at cultivating a collaborative and supportive team environment. I enjoy being challenged and engaged with projects that require me to work beyond my comfort and knowledge set, as I get to explore and learn new languages with different development techniques which are important for growth of any professional like me as well as the success of any organisation.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "sandeep.misra96@gmail.com",
+    "address": {
+      "street": "Flat No 107. Bhuban Pride, Dumduma",
+      "city": "Bhubaneswar",
+      "state": "Odisha",
+      "zip": "751019"
+    },
+    "website": "https://learnwithnitish.wordpress.com/",
+    "resumedownload": "https://drive.google.com/file/d/1Hg9LmGR9AsQcLZdrnDHeloDI-w0Y6WAu/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sandeep.misra.73/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sandeep-misra-061b5131/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/mrsandeepmisra/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/sandeepmisra-repo",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My proficiency in technologies that I used while developing production level applications",
+    "education": [
+      {
+        "school": "Mahavir Institute Of Engineering and Technology",
+        "degree": "Bachlor Degree",
+        "graduated": "2017",
+        "description": ""
+      },
+      {
+        "school": "C.V. Raman Polytechnic",
+        "degree": "Diploma",
+        "graduated": "2009",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "VIS Technology",
+        "title": "Software Developer",
+        "years": "Sep 2017 - Present",
+        "description": "Google TTS, Google ASR, Google Chat Service, NodeJS, SQL, MySQL, REST APIs, .NET, MVC, C#, JAVA, Maven."
+      }
+    ],
+    "skills": [
+      {
+        "name": "IVR",
+        "level": "90%"
+      },
+      {
+        "name": "Google AI",
+        "level": "80%"
+      },
+      {
+        "name": "Node.js",
+        "level": "80%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "C#",
+        "level": "90%"
+      },
+      {
+        "name": "Databases (MySQL, SQL, PSQL)",
+        "level": "90%"
+      },
+      {
+        "name": "React Js",
+        "level": "25%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Prudencial",
+        "category": "Design call flow for store the score of servey in SQL Database and display in AXIS Tool",
+        "image": "prudencial.gif",
+        "url": "https://www.macys.com/"
+      },
+      {
+        "title": "Tech Mahindra",
+        "category": "Designed, developed, deployed on IIS server for disply crystal report of multipule services(MVC, .RDLC, SQL)",
+        "image": "techm.JPG",
+        "url": "https://www.mondelezinternational.com/"
+      },
+      {
+        "title": "EPA Victoria",
+        "category": "Create Chat bot service in Google Dialogflow and integrate with Avaya Experiance Portal",
+        "image": "eapv.png",
+        "url": "https://www.metrosystems.ro/en"
+      },
+      {
+        "title": "AVAYA",
+        "category": "Create multiple IVR projects and deployed in Avaya Experiance Portal",
+        "image": "avaya.jpeg",
+        "url": "https://clone-23ff5.web.app/"
+      },
+      {
+        "title": "Fanuc",
+        "category": "Create a window popup system when customer call to agent it will display the popup with details using c# and TAPI",
+        "image": "fanuc.jpg",
+        "url": "https://facebook-by-nitish.web.app/"
+      },
+      {
+        "title": "AEON SPECIALIZED BANK (CAMBODIA) PLC",
+        "category": "Created a IVR with AEON bank services using java",
+        "image": "aeonsb.png",
+        "url": "https://covid-tracker-by-nitish.web.app/"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sandeep has been a very hard working and dependable developer. He understands the business requirements and goes extra mile to deliver it. Highly professional and great value add to any team."        
+      }
+     
+    ]
+  }
+}
